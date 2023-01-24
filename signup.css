@@ -1,0 +1,56 @@
+.main {
+    border: 1px solid white;
+}
+
+.c1 {
+    margin-left: 400px;
+}
+
+.signhead {
+    color: darkcyan;
+}
+
+.name {
+    color: chartreuse;
+}
+
+.inpcom {
+    width: 350px;
+    font-size: 12px;
+}
+
+.com {
+    font-size: 22px;
+}
+
+.namedv {
+    /* margin-top: 35px; */
+    display: grid;
+    grid-template-rows: 50px 20px;
+}
+
+.gmaildv {
+    display: grid;
+    grid-template-rows: 50px 20px;
+}
+
+.passdiv {
+    display: grid;
+    grid-template-rows: 50px 20px;
+}
+
+.phndiv {
+    display: grid;
+    grid-template-rows: 50px 20px;
+}
+
+.expdiv {
+    display: grid;
+    grid-template-rows: 50px 20px;
+}
+
+.subbtn {
+    margin-top: 25px;
+    margin-left: 150px;
+    border-radius: 2px;
+}
